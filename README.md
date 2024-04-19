@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there.
+
+I'm currently learning and practicing with GUI programming, in Python.
+
+I've built a few simulations that hep me demonstrate various topics in my math classes.
 
 <!--
 **mikeverwer/mikeverwer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
