@@ -11,8 +11,8 @@ Several years teaching mathematics and statistics at the college level, includin
 Python, SQL, and the standard data science stack (Pandas, scikit-learn, NumPy), along with Tableau and Power BI for reporting and visualization. Interested in building complete pipelines, from data ingestion through modeling to clear, usable output. I also have built several GUI simulations in python with PySimpleGUI, Tkinter, and PySide6.
 
 ## Contact
-mike.verwer@gmail.com
-linkedin.com/in/mike-verwer
+mike.verwer@gmail.com  
+linkedin.com/in/mike-verwer  
 mikeverwer.github.io
 
 <!--
