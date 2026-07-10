@@ -1,8 +1,19 @@
-### Hi there.
+# Mike Verwer
 
-I'm currently learning and practicing with GUI programming, in Python.
+Mathematician transitioning into data analytics and data engineering, with a background in postsecondary math and statistics instruction.
 
-I've built a few simulations that hep me demonstrate various topics in my math classes.
+## Background
+M.Sc. Mathematics (Logic and Universal Algebra), McMaster University
+Postgraduate Diploma, Data Analytics, Douglas College
+Several years teaching mathematics and statistics at the college level, including curriculum development and technical writing (contributor to Calculus: Early Trancendentals 9th ed.)
+
+## Technical focus
+Python, SQL, and the standard data science stack (Pandas, scikit-learn, NumPy), along with Tableau and Power BI for reporting and visualization. Interested in building complete pipelines, from data ingestion through modeling to clear, usable output. I also have built several GUI simulations in python with PySimpleGUI, Tkinter, and PySide6.
+
+## Contact
+mike.verwer@gmail.com
+linkedin.com/in/mike-verwer
+mikeverwer.github.io
 
 <!--
 **mikeverwer/mikeverwer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
